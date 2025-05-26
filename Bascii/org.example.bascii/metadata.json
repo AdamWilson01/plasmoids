@@ -1,0 +1,12 @@
+{
+    "KPlugin": {
+        "Id": "org.example.bascii",
+        "Name": "ASCII Battery Status",
+        "Description": "Shows battery level as ASCII blocks",
+        "Version": "1.0",
+        "Author": "Adam Wilson",
+        "License": "MIT"
+    },
+    "X-Plasma-API": "declarativeappletscript",
+    "X-Plasma-MainScript": "ui/main.qml"
+}
